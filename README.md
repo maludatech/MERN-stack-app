@@ -22,8 +22,8 @@ We welcome contributions from the community! If you'd like to enhance the app or
 # Contact
 Feel free to reach out to me for any inquiries, feedback, or project collaborations:
 
-  Twitter: @maludatech
-  WhatsApp: +2348163887385
+- Twitter: @maludatech
+- WhatsApp: +2348163887385
 
 I'm also available for hire and can assist you with a wide range of web development projects, from simple landing pages to complex e-commerce and cryptocurrency websites.
 
