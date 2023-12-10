@@ -1,4 +1,4 @@
-# Workout Logger - MERN Stack Exercise App 
+# Workout Logger - MERN Stack Exercise App
 Workout Logger is a full-stack web application that allows you to efficiently track and manage your workout routines and exercises. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this app provides a seamless user experience for fitness enthusiasts who want to stay organized and motivated on their fitness journey.
 # Features
 - Exercise Tracking: Easily add, edit, and delete exercises, specifying details like exercise name, sets, reps, and weight.
